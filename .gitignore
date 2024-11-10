@@ -155,3 +155,7 @@ output.mid
 /outputs/
 /soundfont.sf2
 /test.py
+
+# uv
+uv.lock
+.python-version
